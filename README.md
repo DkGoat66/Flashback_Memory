@@ -1,7 +1,7 @@
 # Flashback_Memory- Your Learning Companion
 Flashback Memory is a Python-based application designed to enhance your learning experience by promoting consistent reflection and knowledge retention. With this program, users can log their daily learnings, fostering a habit of reflection and reinforcing their understanding of various topics.
 
-## Features:
+## Features
 ### Daily Check-Ins:
 Users are prompted to check in three times daily, creating a routine for reflection on their learning experiences.
 ### Topic Logging:
